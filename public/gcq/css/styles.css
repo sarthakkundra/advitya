@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #333;
+}
+
+.navbar > .navbar-collapse > .navbar-nav > .nav-item > .dropdown-menu {
+    background-color: #333;
+} 
+
+.navbar > .navbar-collapse > .navbar-nav > .nav-item > .dropdown-menu > .dropdown-item {
+    background-color: #333;
+    color: white;
+} 
+
+.navbar > .navbar-collapse > .navbar-nav > .nav-item > .dropdown-menu > a.dropdown-item:hover, a.dropdown-item:focus {
+    background-color: #333;
+    color: gray;
+} 
